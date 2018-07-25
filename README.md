@@ -5,3 +5,4 @@ change 1
 change 2
 change 3
 multiple changes in this readme file by pushpendra to see git history tracking.
+This line is added to understand merge conflict in GIT. Sample test1
